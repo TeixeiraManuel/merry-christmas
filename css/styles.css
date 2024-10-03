@@ -25,6 +25,7 @@ html{
 header{
     background: var(--header-color);
     padding: 10.4rem 0;
+    display: flex;
 }
 
 .content{
@@ -215,7 +216,7 @@ footer{
         font-size: 1.8rem;
     }    
     .img-header, .end img, .center img{
-    width: 310.38px;
+    width: 261px;
     }
 }
 
